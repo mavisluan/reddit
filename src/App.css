@@ -1,0 +1,54 @@
+.App {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.story {
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+}
+
+.vote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: darkgray;
+  font-weight: bold;
+  align-self: left;
+  flex: 1
+}
+
+.vote button {
+  border: 0px;
+  font-size: 18px;
+  color: darkgray;
+  
+}
+
+.image {
+  flex: 1;
+}
+
+
+.story-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex: 3;
+  border-bottom: 1px solid lightgray;
+}
+
+.story-info a {
+  color: brown;
+  font-size: 20px;
+  text-decoration: none
+}
+
+.story-info > div {
+  color: darkgray;
+}
