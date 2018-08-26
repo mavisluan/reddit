@@ -11,6 +11,10 @@ Users should be able to
 - upvote and downvote the number of votes
 - click the title of each post and navigate to the linked page
 
+## Project Screenshot
+![](src/icons/project.png)
+
+
 ## Installation instruction
 - clone my repo git clone https://github.com/mavisluan/reddit.git
 - install all project dependencies with yarn install
