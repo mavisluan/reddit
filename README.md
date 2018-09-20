@@ -12,7 +12,7 @@ Users should be able to
 - click the title of each post and navigate to the linked page
 
 ## Project Screenshot
-![](src/icons/project.png)
+<img src='src/icons/project.png' width='800'>
 
 
 ## Installation Instructions
