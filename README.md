@@ -16,6 +16,7 @@ Users should be able to
 
 
 ## Installation Instructions
-- clone my repo git clone https://github.com/mavisluan/reddit.git
-- install all project dependencies with yarn install
-- start the development server with yarn start
+- git clone https://github.com/mavisluan/reddit.git
+- cd reddit
+- yarn install
+- yarn start
