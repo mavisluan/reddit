@@ -1,4 +1,4 @@
-## Reddit Project
+# Reddit Project
 - It is a simple Reddit Project, built with ReactJS.
 
 
